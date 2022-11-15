@@ -1,7 +1,7 @@
 
 # Company-Salary-Management-System
 ## Description
-It's a demo to show that, we can make this kind of system and you can offer us your projects on [Fiverr](https://www.fiverr.com/mmar58), [Freelancer](https://www.freelancer.com/u/apurahman30) or [Upwork](https://www.upwork.com/freelancers/~01592faa28412cc5a0)
+It's a demo to show that, we can make this kind of systems and you can offer us your projects on [Fiverr](https://www.fiverr.com/mmar58), [Freelancer](https://www.freelancer.com/u/apurahman30) or [Upwork](https://www.upwork.com/freelancers/~01592faa28412cc5a0)
 
 ## Project Description
 It's a salary management web applicaion. Here you can see your employess, their salary, hiring date, next salary payment date, total salary you have to pay next month, total salary your paid etc. And employess also can confirm their payment when they received the money.
