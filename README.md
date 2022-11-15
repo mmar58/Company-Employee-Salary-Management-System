@@ -10,7 +10,7 @@ In total word, if you use this, your don't have to worry about employees cost. Y
 ## Features
 
  - Admin Login(Pending)
- - Admin can hire employees (when hired, admin can set a user name and password for the employee and later employee can change the password after login)
+ - Admin can hire employees (when hired, admin can set a user name and password for the employee and later employee can change the password after login)(Pending)
  - Employee Login(Pending)
  - Admin Dashboard(Pending)
  - Employes Dashboard(Pending)
